@@ -1,15 +1,14 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class LoadScenes : MonoBehaviour
+public class LoadSenes : MonoBehaviour
 {
     public string sceneName;
-    
-        public void Load()
-        {
-            SceneManager.LoadScene(sceneName);
-        }
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+
+    public void Load()
+    {
+        SceneManager.LoadScene(sceneName);
+    }
     void Start()
     {
         

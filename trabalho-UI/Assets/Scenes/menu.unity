@@ -3559,7 +3559,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 778330168}
-        m_TargetAssemblyTypeName: LoadScenes, Assembly-CSharp
+        m_TargetAssemblyTypeName: LoadSenes, Assembly-CSharp
         m_MethodName: Load
         m_Mode: 1
         m_Arguments:

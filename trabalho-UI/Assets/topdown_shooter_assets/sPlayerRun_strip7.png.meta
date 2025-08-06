@@ -1,10 +1,28 @@
 fileFormatVersion: 2
-guid: d2bb8351026a01249976553b34129c6a
+guid: 21e8e282545c7ff4f9c9afe3a24d38ee
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5025974322908400223
-    second: decor_8x8_0
+      213: 9153617591221827883
+    second: sPlayerRun_strip7_0
+  - first:
+      213: 5296772126042657594
+    second: sPlayerRun_strip7_1
+  - first:
+      213: 5536336099334901456
+    second: sPlayerRun_strip7_2
+  - first:
+      213: -3278922710695044603
+    second: sPlayerRun_strip7_3
+  - first:
+      213: -614625599558302535
+    second: sPlayerRun_strip7_4
+  - first:
+      213: -2568427307819562037
+    second: sPlayerRun_strip7_5
+  - first:
+      213: -1821059061499486442
+    second: sPlayerRun_strip7_6
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,89 +118,155 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: decor_8x8_0
+      name: sPlayerRun_strip7_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 24
-        width: 32
-        height: 8
+        x: 6
+        y: 4
+        width: 29
+        height: 35
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f5a80379409dfb540800000000000000
-      internalID: 5025974322908400223
+      spriteID: b293b8683be280f70800000000000000
+      internalID: 9153617591221827883
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: decor_8x8_1
+      name: sPlayerRun_strip7_1
       rect:
         serializedVersion: 2
-        x: 0
-        y: 16
-        width: 32
-        height: 8
+        x: 46
+        y: 4
+        width: 28
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: d47b4338195111c4793da4b922d6dee6
-      internalID: -1540554143
+      spriteID: a3396f46f2ae18940800000000000000
+      internalID: 5296772126042657594
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: decor_8x8_2
+      name: sPlayerRun_strip7_2
       rect:
         serializedVersion: 2
-        x: 0
-        y: 8
-        width: 32
-        height: 8
+        x: 86
+        y: 4
+        width: 29
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 63a09f90e18ff9b4ba026d87b0383c60
-      internalID: 31934340
+      spriteID: 0de470e795405dc40800000000000000
+      internalID: 5536336099334901456
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: decor_8x8_3
+      name: sPlayerRun_strip7_3
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 32
-        height: 8
+        x: 126
+        y: 5
+        width: 26
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 852943bb01c73aa4489940188f2bb3a2
-      internalID: -1411088220
+      spriteID: 50a9f07ca2dee72d0800000000000000
+      internalID: -3278922710695044603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sPlayerRun_strip7_4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 7
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4477c06496877f0800000000000000
+      internalID: -614625599558302535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sPlayerRun_strip7_5
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 4
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb800eb8fc1b5cd0800000000000000
+      internalID: -2568427307819562037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sPlayerRun_strip7_6
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 4
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f11549e6c4ab6e0800000000000000
+      internalID: -1821059061499486442
       vertices: []
       indices: 
       edges: []
@@ -191,7 +275,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 91e84e7291a9f96499ef5c684a86d81b
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -201,10 +285,13 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      decor_8x8_0: 5025974322908400223
-      decor_8x8_1: -1540554143
-      decor_8x8_2: 31934340
-      decor_8x8_3: -1411088220
+      sPlayerRun_strip7_0: 9153617591221827883
+      sPlayerRun_strip7_1: 5296772126042657594
+      sPlayerRun_strip7_2: 5536336099334901456
+      sPlayerRun_strip7_3: -3278922710695044603
+      sPlayerRun_strip7_4: -614625599558302535
+      sPlayerRun_strip7_5: -2568427307819562037
+      sPlayerRun_strip7_6: -1821059061499486442
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

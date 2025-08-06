@@ -1,10 +1,28 @@
 fileFormatVersion: 2
-guid: d2bb8351026a01249976553b34129c6a
+guid: 06b56459b87cef24c954c1ebd38ed887
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5025974322908400223
-    second: decor_8x8_0
+      213: -2918106902554107766
+    second: sEnemy_strip7_0
+  - first:
+      213: 8624515822963100446
+    second: sEnemy_strip7_1
+  - first:
+      213: -6710327170510770155
+    second: sEnemy_strip7_2
+  - first:
+      213: -6765102282180075183
+    second: sEnemy_strip7_3
+  - first:
+      213: -7051769739562502026
+    second: sEnemy_strip7_4
+  - first:
+      213: 8975329005974275734
+    second: sEnemy_strip7_5
+  - first:
+      213: -4855478681050893451
+    second: sEnemy_strip7_6
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,89 +118,155 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: decor_8x8_0
+      name: sEnemy_strip7_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 24
-        width: 32
-        height: 8
+        x: 4
+        y: 5
+        width: 33
+        height: 35
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f5a80379409dfb540800000000000000
-      internalID: 5025974322908400223
+      spriteID: a80a5a0ab3dc087d0800000000000000
+      internalID: -2918106902554107766
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: decor_8x8_1
+      name: sEnemy_strip7_1
       rect:
         serializedVersion: 2
-        x: 0
-        y: 16
-        width: 32
-        height: 8
+        x: 43
+        y: 4
+        width: 34
+        height: 33
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: d47b4338195111c4793da4b922d6dee6
-      internalID: -1540554143
+      spriteID: e1b8373427f60b770800000000000000
+      internalID: 8624515822963100446
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: decor_8x8_2
+      name: sEnemy_strip7_2
       rect:
         serializedVersion: 2
-        x: 0
-        y: 8
+        x: 84
+        y: 4
         width: 32
-        height: 8
+        height: 33
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 63a09f90e18ff9b4ba026d87b0383c60
-      internalID: 31934340
+      spriteID: 510bd03cdf020e2a0800000000000000
+      internalID: -6710327170510770155
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: decor_8x8_3
+      name: sEnemy_strip7_3
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
+        x: 123
+        y: 3
         width: 32
-        height: 8
+        height: 35
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 852943bb01c73aa4489940188f2bb3a2
-      internalID: -1411088220
+      spriteID: 151e87141578d12a0800000000000000
+      internalID: -6765102282180075183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sEnemy_strip7_4
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 6
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6783783a8c4132e90800000000000000
+      internalID: -7051769739562502026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sEnemy_strip7_5
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 3
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6964b577d26ce8c70800000000000000
+      internalID: 8975329005974275734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sEnemy_strip7_6
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 3
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573ba717ddfdd9cb0800000000000000
+      internalID: -4855478681050893451
       vertices: []
       indices: 
       edges: []
@@ -191,7 +275,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 91e84e7291a9f96499ef5c684a86d81b
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -201,10 +285,13 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      decor_8x8_0: 5025974322908400223
-      decor_8x8_1: -1540554143
-      decor_8x8_2: 31934340
-      decor_8x8_3: -1411088220
+      sEnemy_strip7_0: -2918106902554107766
+      sEnemy_strip7_1: 8624515822963100446
+      sEnemy_strip7_2: -6710327170510770155
+      sEnemy_strip7_3: -6765102282180075183
+      sEnemy_strip7_4: -7051769739562502026
+      sEnemy_strip7_5: 8975329005974275734
+      sEnemy_strip7_6: -4855478681050893451
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
